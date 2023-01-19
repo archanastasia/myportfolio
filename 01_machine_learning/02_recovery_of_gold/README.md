@@ -1,6 +1,6 @@
 `Machine learning` `Regression task` `Scikit-learn` `Research analysis` `Seaborn` `Matplotlib`
 
-GO TO <a href="https://nbviewer.org/github/archanastasia/portfolio/blob/main/01_machine_learning/02_recovery_of_gold/recovery_of_gold.ipynb">OPEN FULL PROJECT VERSION</a>
+GO TO <a href="https://nbviewer.org/github/archanastasia/myportfolio/blob/main/01_machine_learning/02_recovery_of_gold/recovery_of_gold.ipynb">OPEN FULL PROJECT VERSION</a>
 
 
 
