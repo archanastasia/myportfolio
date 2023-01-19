@@ -1,4 +1,4 @@
-GO TO <a href="https://nbviewer.org/github/archanastasia/portfolio/blob/main/02_data_analyst/01_computer_games/computer_games.ipynb">OPEN FULL PROJECT VERSION</a>
+GO TO <a href="https://nbviewer.org/github/archanastasia/myportfolio/blob/main/02_data_analyst/01_computer_games/computer_games.ipynb">OPEN FULL PROJECT VERSION</a>
 
 
 `Pandas` `Seaborn` `Matplotlib` `Numpy` `Scipy`  `Descriptive statistics` `testing statistical hypotheses`
