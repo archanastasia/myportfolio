@@ -11,7 +11,7 @@
 here are projects completed during my studies
 
 ### About Me :
-I'm Data Analyst.
+I'm Anastasiia, data scientist, and this is my repository, which contains educational projects completed as part of the training on the <a href=https://practicum.yandex.ru/> Yandex Practicum program
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anastasiia-ivanova-b8893a25b)
 - tel: +995551511446
 - tel: +79153783567
