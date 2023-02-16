@@ -62,6 +62,8 @@ GO TO <a href="https://nbviewer.org/github/archanastasia/myportfolio/blob/main/0
 
 CatBoostRegressor(verbose=True, random_state=151122, iterations=5000, learning_rate =0.01, early_stopping_rounds=100)
 
-результат кросс-валидации на обучающей выборке - **MAE = 6.03** <\n>
-результат на тестовой выборке - **MAE = 6.18** <\n>
+результат кросс-валидации на обучающей выборке - **MAE = 6.03** 
+
+результат на тестовой выборке - **MAE = 6.18**
+
 Константная модель показала результат 8.31 на тестовой выборке. Результат обученой модели значительно лучше.
