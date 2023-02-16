@@ -57,8 +57,8 @@ GO TO <a href="https://nbviewer.org/github/archanastasia/myportfolio/blob/main/0
 
 Были обучены регрессионные модели: CatBoost, LGBM, RandomForest, ElasticNetCV, LassoCV. С помощью кросс-валидации. Модели с лучшими результатами были проверены на тестовой выборке.
 
-Вывод
-Лучший результат показала модель CatBoost.
+# Вывод
+**Лучший результат показала модель CatBoost.**
 
 CatBoostRegressor(verbose=True, random_state=151122, iterations=5000, learning_rate =0.01, early_stopping_rounds=100)
 
